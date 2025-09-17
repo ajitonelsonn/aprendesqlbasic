@@ -46,3 +46,6 @@ UPDATE Empregadu SET salario = 1800.00 WHERE naran = 'Joao';
 -- Haree dadus atu hatama foun
 SELECT * FROM Empregadu WHERE idade > 25;
 ```
+
+---
+Kolega sira bele ajuda aumenta
